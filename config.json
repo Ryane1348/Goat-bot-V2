@@ -1,7 +1,18 @@
-{
-  "facebookAccount": {
-    "email": "",
-    "password": "",
+{"facebookAccount": {
+    "appState": [
+        {"key": "datr", "value": "LByXarMep0uHBORykU2NYHEN", "domain": ".facebook.com"},
+        {"key": "fr", "value": "08YZnjtKGZ3w9iJac.AWcotuIv62LCNnjhkyYvIrHYFaH_GzywlWHsfXCEhRC3odXItgk.Bqlxwt..AAA.0.0.Bqlx2R.AWcb8gcxF-JclPeBD2QgfL8M89U", "domain": ".facebook.com"},
+        {"key": "vpd", "value": "v1%3B656x360x2", "domain": ".facebook.com"},
+        {"key": "xs", "value": "18%3A8I95kxk-oZWq5A%3A2%3A1788288399%3A-1%3A-1", "domain": ".facebook.com"},
+        {"key": "fbl_st", "value": "101237523%3BT%3A29804806", "domain": ".facebook.com"},
+        {"key": "locale", "value": "ar_AR", "domain": ".facebook.com"},
+        {"key": "m_pixel_ratio", "value": "1", "domain": ".facebook.com"},
+        {"key": "c_user", "value": "61593770319875", "domain": ".facebook.com"},
+        {"key": "pas", "value": "61593770319875%3A35bC1ynMZd", "domain": ".facebook.com"},
+        {"key": "sb", "value": "LRyXaqnI1Yk5fcuH85l3PZYu", "domain": ".facebook.com"},
+        {"key": "wd", "value": "360x800", "domain": ".facebook.com"},
+        {"key": "wl_cbv", "value": "v2%3Bclient_version%3A3268%3Btimestamp%3A1788288401", "domain": ".facebook.com"}
+    ],
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -13,7 +24,7 @@
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
   "nickNameBot": "simo bot",
-  "prefix": "/"
+  "prefix": "/", 
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
