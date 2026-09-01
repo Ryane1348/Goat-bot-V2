@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "simobot859@gmail.com",
+    "password": "simo2026",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -12,13 +12,13 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "Bot name",
-  "prefix": "/",
+  "nickNameBot": "simo bot",
+  "prefix": "/"
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
-  "adminBot": [""],
+  "adminBot": ["61593770319875"],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
