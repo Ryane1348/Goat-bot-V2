@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "simobot859@gmail.com",
-    "password": "simo2026",
+    "email": "",
+    "password": "",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -21,7 +21,7 @@
   "adminBot": ["61593770319875"],
   "whiteListMode": {
     "enable": false,
-    "whiteListIds": [],
+    "whiteListIds": [61593770319875],
     "notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
   },
   "whiteListModeThread": {
