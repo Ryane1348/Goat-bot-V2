@@ -1,18 +1,28 @@
-{"facebookAccount": {
+{
+  "facebookAccount": {
     "appState": [
-        {"key": "datr", "value": "LByXarMep0uHBORykU2NYHEN", "domain": ".facebook.com"},
-        {"key": "fr", "value": "08YZnjtKGZ3w9iJac.AWcotuIv62LCNnjhkyYvIrHYFaH_GzywlWHsfXCEhRC3odXItgk.Bqlxwt..AAA.0.0.Bqlx2R.AWcb8gcxF-JclPeBD2QgfL8M89U", "domain": ".facebook.com"},
-        {"key": "vpd", "value": "v1%3B656x360x2", "domain": ".facebook.com"},
-        {"key": "xs", "value": "18%3A8I95kxk-oZWq5A%3A2%3A1788288399%3A-1%3A-1", "domain": ".facebook.com"},
-        {"key": "fbl_st", "value": "101237523%3BT%3A29804806", "domain": ".facebook.com"},
-        {"key": "locale", "value": "ar_AR", "domain": ".facebook.com"},
-        {"key": "m_pixel_ratio", "value": "1", "domain": ".facebook.com"},
-        {"key": "c_user", "value": "61593770319875", "domain": ".facebook.com"},
-        {"key": "pas", "value": "61593770319875%3A35bC1ynMZd", "domain": ".facebook.com"},
-        {"key": "sb", "value": "LRyXaqnI1Yk5fcuH85l3PZYu", "domain": ".facebook.com"},
-        {"key": "wd", "value": "360x800", "domain": ".facebook.com"},
-        {"key": "wl_cbv", "value": "v2%3Bclient_version%3A3268%3Btimestamp%3A1788288401", "domain": ".facebook.com"}
+      {"key": "datr", "value": "LByXarMep0uHBORykU2NYHEN"},
+      {"key": "fr", "value": "08YZnjtKGZ3w9iJac.AWfC4S4lTKgknFPzLHQa274JJYn_CAp6I3-YytSCEjTVahyfavk.Bqlxwt..AAA.0.0.Bql_5s.AWfL0fvIC-UMg5aMvNymtFS1GMU"},
+      {"key": "vpd", "value": "v1%3B656x360x2"},
+      {"key": "xs", "value": "18%3A8I95kxk-oZWq5A%3A2%3A1788288399%3A-1%3A-1"},
+      {"key": "fbl_st", "value": "100729377%3BT%3A29805766"},
+      {"key": "locale", "value": "ar_AR"},
+      {"key": "c_user", "value": "61593770319875"},
+      {"key": "pas", "value": "61593770319875%3A35bC1ynMZd"},
+      {"key": "sb", "value": "LRyXaqnI1Yk5fcuH85l3PZYu"},
+      {"key": "wl_cbv", "value": "v2%3Bclient_version%3A3268%3Btimestamp%3A1788345965"}
     ],
+    "2FASecret": "",
+    "i_user": "",
+    "proxy": null,
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36",
+    "intervalGetNewCookie": 1440,
+    "notes": ""
+  },
+  "antiInbox": false
+}
+
+         
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
